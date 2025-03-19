@@ -1,0 +1,25 @@
+User registration and token generation endpoints start with:
+
+auth/
+
+due to the use of djoser
+
+admin:
+username: admin
+email: admin@lemon.com
+password: admin
+
+manager:
+username: alphonse
+password: manager123!
+
+customer:
+username: mario
+password: customer123!
+
+username: test
+password: test123!
+
+delivery:
+username: steph
+password: delivery123!
